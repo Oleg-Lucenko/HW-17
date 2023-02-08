@@ -1,0 +1,7 @@
+.tableNumbers input {
+    width: 25px;
+    text-align: center;
+    justify-content: end;
+    outline: none;
+    border: none;
+}
